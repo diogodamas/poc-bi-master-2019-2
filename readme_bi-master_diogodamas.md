@@ -1,7 +1,7 @@
 # Acompanhamento de Carteira de Ações com Google Sheets e Power BI
 
 #### Aluno: [Diogo Damas](https://github.com/diogodamas)
-#### Orientador: [Anderson Nascimento] (https://github.com/insightds)
+#### Orientador: [Anderson Nascimento](https://github.com/insightds)
 
 ---
 
